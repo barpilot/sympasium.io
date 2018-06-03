@@ -1,0 +1,52 @@
+enable: true
+title: Un séminaire pour tous les indépendants
+subtitle: >
+  Vous avez toujours voulu fêter une année remplie de missions.
+  Nous aussi !
+content:
+
+  - icon: ion-md-paper-plane
+    name: But
+    text: >
+      Et si les indépendants avait aussi leur summit ?
+
+  - icon: ion-md-sunny
+    name: Destination
+    text: >
+      ClubMed de Kemer.
+
+  - icon: ion-md-git-compare
+    name: Échange
+    text: >
+      Des discussions, des présentations.
+      Apprenons ensemble.
+
+  - icon: ion-md-text
+    name: Français
+    text: >
+      Attendez-vous à parler Français (mais peut-être pas que ^^)
+
+  # - icon: ion-md-people
+  #   name: Pour qui ?
+  #   text: >
+  #     Tous les indépendants (beaucoup dans l'IT on préviens ;))
+
+  - icon: ion-md-person-add
+    #name: "+1"
+    text: >
+      Vos compagnons sont les bienvenues !
+
+  - icon: ion-md-infinite
+    name: Diversité
+    text: >
+      La diversité est notre plus grande chance. Nous faisons attention à ce que toutes les métiers, origines, opinions et cultures soit respectées.
+
+  - icon: ion-md-calendar
+    name: Dates
+    text: >
+      Du 14 au 21 juillet 2018.
+ 
+  - icon: ion-md-information
+    name: Prix
+    text: >
+      X€ HT tout compris : vol, hébergement, restauration, soirées

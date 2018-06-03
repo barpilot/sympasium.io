@@ -1,0 +1,13 @@
+header .navbar-brand img {
+    height: 130%;
+}
+#feature .cadre {
+    background-color: rgba(229, 231, 233, 0.7);
+    padding: 40px;
+}
+#feature .cadre h2 {
+    margin-top: 0;
+}
+#service .serve-item {
+    color: red;
+}

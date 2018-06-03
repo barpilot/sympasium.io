@@ -1,0 +1,107 @@
+title = "sympasium"
+baseURL = "https://sympasium.org/"
+languageCode = "fr"
+theme = "airspace-hugo"
+
+[menu]
+
+  # [[menu.header]]
+  #   weight = 2
+  #   name = "Work"
+  #   url = "/work"
+  # [[menu.header]]
+  #   weight = 3
+  #   name = "Blog"
+  #   url = "/blog"
+  # [[menu.header]]
+  #   weight = 4
+  #   name = "Service"
+  #   url = "/service"
+  [[menu.header]]
+    weight = 5
+    name = "Contact"
+    url = "/contact"
+
+  # [[menu.footer]]
+  #   weight = 1
+  #   name = "About us"
+  #   url = "#"
+  # [[menu.footer]]
+  #   weight = 2
+  #   name = "Contact us"
+  #   url = "#"
+  # [[menu.footer]]
+  #   weight = 3
+  #   name = "How it works"
+  #   url = "#"
+  # [[menu.footer]]
+  #   weight = 4
+  #   name = "Blog"
+  #   url = "#"
+  # [[menu.footer]]
+  #   weight = 5
+  #   name = "Terms"
+  #   url = "#"
+
+# The site's parameters
+[params]
+
+  # If you want to remove the copyright text you need a Themefisher license.
+  # This license is offered with a 50% discount for all Hugo users.
+  # For information see https://github.com/gohugoio/hugoThemes/issues/260
+
+  date_format = "6 January 2006"
+
+  home = "Accueil"
+
+  [params.slider]
+    enable = true
+    title = "Une rencontre des indépendants par les indépendants"
+    subtitle = ""
+
+  [params.wrapper]
+    enable = true
+    title = "sympasium"
+    italic = "Il n'y a pas de plaisir comparable à celui de rencontrer un vieil ami, excepté peut-être celui d'en faire un nouveau."
+    paragraph = '''
+    Dans un monde où notre travail est morcelé et souvent solitaire.
+    Un sympasium se veut être un assemblage de bon-temps, discussions, activités, apprentissage…'''
+
+  [params.blog]
+    enable = false
+    title = "Get The Latest On What We're doing"
+    subtitle = "Catch up with us, anytime and anywhere"
+
+  [params.feature]
+    enable = true
+    title = "Nous croyons dans le partage"
+    content = "Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
+    # [params.feature.button]
+    #   caption = "View Works"
+    #   url = "#"
+
+  [params.call]
+    enable = true
+    title = "Inscrivez-vous vite"
+    paragraph = ""
+    [params.call.button]
+      text = "Contactez nous !"
+      url = "/contact"
+
+  [params.contact]
+    enable = true
+    title = "Drop us a note"
+    subtitle = "Don’t just take our word for it. Check out some of our latest work."
+    [params.contact.form]
+      name = "Your name"
+      email = "Your email"
+      subject = "Your subject"
+      message = "Your message"
+      button = "Send message"
+    # [params.contact.box]
+    #   title = "Stop by for a visit"
+    #   address = "North Main Street, Brooklyn Australia"
+    #   email = "Email: contact@mail.com"
+    #   phone = "Phone: +88 01672 506 744"
+    # [params.contact.gmaps]
+    #   title = "We Also Count in Google Maps"
