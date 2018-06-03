@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/themefisher/airspace-hugo.git
+	branch = master
+	commit = ac6f5a023799d28ce7743735428c5ab428060a82
+	parent = 369566ecaaa809b2af3b0044a3be73798ac4e69e
+	cmdver = 0.3.1
