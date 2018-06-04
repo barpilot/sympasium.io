@@ -62,7 +62,7 @@ theme = "airspace-hugo"
   [params.wrapper]
     enable = true
     title = "sympasium"
-    italic = "Il n'y a pas de plaisir comparable à celui de rencontrer un vieil ami, excepté peut-être celui d'en faire un nouveau."
+    italic = "\"Il n'y a pas de plaisir comparable à celui de rencontrer un vieil ami, excepté peut-être celui d'en faire un nouveau.\"<br>Rudyard Kipling"
     paragraph = '''
     Dans un monde où notre travail est morcelé et souvent solitaire.
     Un sympasium se veut être un assemblage de bon-temps, discussions, activités, apprentissage…'''

@@ -18,13 +18,14 @@ content:
   - icon: ion-md-git-compare
     name: Échange
     text: >
-      Des discussions, des présentations.
+      Des discussions, des présentations.<br>
       Apprenons ensemble.
 
   - icon: ion-md-text
     name: Français
     text: >
-      Attendez-vous à parler Français (mais peut-être pas que ^^)
+      Attendez-vous à parler Français<br>
+      (mais peut-être pas que ^^)
 
   # - icon: ion-md-people
   #   name: Pour qui ?
@@ -39,7 +40,8 @@ content:
   - icon: ion-md-infinite
     name: Diversité
     text: >
-      La diversité est notre plus grande chance. Nous faisons attention à ce que toutes les métiers, origines, opinions et cultures soit respectées.
+      La diversité est notre plus grande chance.<br>
+      Nous faisons attention à respecter tous les métiers, origines, opinions et cultures.
 
   - icon: ion-md-calendar
     name: Dates
@@ -49,4 +51,5 @@ content:
   - icon: ion-md-information
     name: Prix
     text: >
-      X€ HT tout compris : vol, hébergement, restauration, soirées
+      X€ HT tout compris :<br>
+      vol, hébergement, restauration, soirées
