@@ -90,14 +90,14 @@ theme = "airspace-hugo"
 
   [params.contact]
     enable = true
-    title = "Drop us a note"
-    subtitle = "Don’t just take our word for it. Check out some of our latest work."
+    title = "Contactez nous"
+    subtitle = "Ne soyez pas timide"
     [params.contact.form]
-      name = "Your name"
-      email = "Your email"
-      subject = "Your subject"
-      message = "Your message"
-      button = "Send message"
+      name = "Votre nom"
+      email = "Votre courriel"
+      subject = "Sujet"
+      message = "Votre gentil message"
+      button = "Envoyer le message"
     # [params.contact.box]
     #   title = "Stop by for a visit"
     #   address = "North Main Street, Brooklyn Australia"
