@@ -5,8 +5,8 @@
     <!-- Intro -->
     <div class="row">
       <div class="section-title">
-        <h2>{{ .Site.Data.service.title }}</h2>
-        <p>{{ .Site.Data.service.subtitle }}</p>
+        <h2>{{ .Site.Data.service.title | safeHTML }}</h2>
+        <p>{{ .Site.Data.service.subtitle | safeHTML }}</p>
       </div>
     </div>
 
@@ -17,7 +17,7 @@
         <div class="service-item">
           <i class="icon {{ .icon }}"></i>
           <h4>{{ .name }}</h4>
-          <p>{{ .text }}</p>
+          <p>{{ .text | safeHTML }}</p>
         </div>
       </div>
       {{ end }}
