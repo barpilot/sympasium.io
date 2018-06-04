@@ -14,3 +14,11 @@ header .navbar-brand img {
 #slider .text-uppercase {
     width: 100%;
 }
+
+p {
+    font-size: 1.3em;
+}
+
+#feature p {
+    color: #212F3D;
+}
