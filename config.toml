@@ -56,16 +56,14 @@ theme = "airspace-hugo"
 
   [params.slider]
     enable = true
-    title = "Une rencontre des indépendants par les indépendants"
+    title = "Une rencontre<br>des indépendants<br>par les indépendants"
     subtitle = ""
 
   [params.wrapper]
     enable = true
     title = "sympasium"
-    italic = "\"Il n'y a pas de plaisir comparable à celui de rencontrer un vieil ami, excepté peut-être celui d'en faire un nouveau.\"<br>Rudyard Kipling"
-    paragraph = '''
-    Dans un monde où notre travail est morcelé et souvent solitaire.
-    Un sympasium se veut être un assemblage de bon-temps, discussions, activités, apprentissage…'''
+    italic = "\"Il n'y a pas de plaisir comparable à celui de rencontrer un vieil ami, excepté peut-être celui d'en faire un nouveau.\"<br/><strong>Rudyard Kipling</strong>"
+    paragraph = "En plein coeur de l'été, sympasium propose un nouveau format de rencontre pour les indépendants.<br>Sympasium se déroule toute une semaine dans un petit coin de paradis, le cadre idéal pour passer de bons moments. Au programme : réseautage, sport, débats, fêtes et bien plus encore."
 
   [params.blog]
     enable = false
@@ -74,24 +72,24 @@ theme = "airspace-hugo"
 
   [params.feature]
     enable = true
-    title = "Nous croyons dans le partage"
-    content = "Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
+    title = "L'indépendance comme force"
+    content = "Dans notre monde où le travail est morcelé et souvent solitaire, un sympasium est un assemblage de bon-temps, discussions, activités, apprentissage…<br>Nous croyons au partage des expériences et à la diversité des points de vue comme enrichissement, aux amitiés nouvelles pour développer de futures collaborations."
     # [params.feature.button]
     #   caption = "View Works"
     #   url = "#"
 
   [params.call]
     enable = true
-    title = "Inscrivez-vous vite"
+    title = "Inscrivez-vous vite !"
     paragraph = ""
     [params.call.button]
-      text = "Contactez nous !"
+      text = "Contactez nous"
       url = "/contact"
 
   [params.contact]
     enable = true
     title = "Contactez nous"
-    subtitle = "Ne soyez pas timide"
+    subtitle = "Ne soyez pas timide ;)"
     [params.contact.form]
       name = "Votre nom"
       email = "Votre courriel"

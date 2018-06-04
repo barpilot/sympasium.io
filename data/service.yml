@@ -40,7 +40,6 @@ content:
   - icon: ion-md-infinite
     name: Diversité
     text: >
-      La diversité est notre plus grande chance.<br>
       Nous faisons attention à respecter tous les métiers, origines, opinions et cultures.
 
   - icon: ion-md-calendar
@@ -51,5 +50,5 @@ content:
   - icon: ion-md-information
     name: Prix
     text: >
-      X€ HT tout compris :<br>
+      1600€ HT tout compris :<br>
       vol, hébergement, restauration, soirées
